@@ -2,7 +2,7 @@
 
 # CREATION D'UN SITE VITRINE PROFESSIONNEL
 
-Autheur : Eliott LEE
+Auteur : Eliott LEE
 
 #### DESCRIPTION DU PROJET
 
